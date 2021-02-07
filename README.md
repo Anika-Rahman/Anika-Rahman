@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asma Sadia Anika</h1>
-<p align="center">I am a 4th year undergraduate student from <b>American International University-Bangladesh</b>, Dhaka, Bangladesh,</p>
+<p align="center">I am a 4th year undergraduate student from <b><i>American International University-Bangladesh</b></i>, Dhaka, Bangladesh,</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anika-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="anika-rahman" /> </p>
 
